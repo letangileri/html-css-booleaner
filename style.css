@@ -22,3 +22,28 @@ header{
     width: 20%;
 }
 
+h1{
+    margin-bottom:0;
+    font-size: 3em;
+}
+.subtitle{
+    margin: 0;
+}
+
+#hero-imgs{
+    width: 100%;
+}    
+#img1, #img2{
+    width: 49%;
+}     
+#img2{
+    height: 50%;
+}
+table{
+    width: 100%;
+}
+td, th{
+    width: 200px;
+    text-align: left;
+}
+
