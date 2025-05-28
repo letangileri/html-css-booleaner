@@ -1,18 +1,24 @@
 header{
     background-color: rgb(78 162 255);
-    
-}
 
-#logo{
-    width: 20%;
-    vertical-align: bottom;
+    
 }
 
 
 .logo-bkg {
     background-image: url("./img/pattern.png");
     background-repeat: repeat-x;
+    /* background-position: left bottom, top; */
+    /* background-size: contain, cover;  */
     height: 200px;
     width: 100%; 
+}
+
+#logo{
+    background-image: url(./img/logo.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100%;
+    width: 20%;
 }
 
