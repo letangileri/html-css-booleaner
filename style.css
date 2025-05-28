@@ -47,3 +47,19 @@ td, th{
     text-align: left;
 }
 
+#img-p-i1{
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px; 
+}
+
+#img-p-i2{
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px; 
+}
+
+h4{
+    color: #ffffff;
+}
+
